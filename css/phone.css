@@ -1,0 +1,43 @@
+.selectBlock {
+	float: none;
+}
+.searchBlock {
+	margin-left: 0;
+	position: relative;
+	margin-left: 12px;
+	margin-top: 12px;
+}
+.search_reset_block {
+	position: static;
+	text-align: center;
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.search_select_group {
+	float: none;
+	position: static; 
+
+}
+.ssBlock {
+	width: 100%;
+	margin-right: 0;
+	margin-left: 0;
+	font-size: 90%;
+}
+.ssBlock label {
+  	width: 140px;
+}
+.selectBlock select {
+  	width: 160px;
+}
+#searchBlockInput {
+  width: 140px;
+}
+h1 {
+	font-size: 3em;
+	margin-left: 0;
+}
+.emojisWrapper {
+  padding: 0;
+}
